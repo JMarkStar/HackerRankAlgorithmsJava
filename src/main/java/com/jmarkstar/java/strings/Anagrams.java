@@ -1,4 +1,4 @@
-package com.jmarkstar.strings;
+package com.jmarkstar.java.strings;
 
 import java.util.Arrays;
 import java.util.Scanner;

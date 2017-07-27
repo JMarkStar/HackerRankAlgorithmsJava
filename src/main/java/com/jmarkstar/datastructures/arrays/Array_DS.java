@@ -1,4 +1,4 @@
-package com.jmarkstar.datastructures;
+package com.jmarkstar.datastructures.arrays;
 
 import java.util.Scanner;
 
